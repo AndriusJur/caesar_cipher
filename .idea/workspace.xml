@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb053b95-a6e1-4d18-9625-b846291aea7b" name="Changes" comment="" />
+    <list default="true" id="eb053b95-a6e1-4d18-9625-b846291aea7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndriusJur&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndriusJur/caesar_cipher.git&quot;,
+    &quot;accountId&quot;: &quot;f959b540-5fc7-47f6-b70a-cf544ab5c403&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -33,7 +47,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Ruby.caesar_cipher.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1750355309710",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1750698222453",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -63,14 +78,21 @@
       <workItem from="1750354758774" duration="419000" />
       <workItem from="1750355200314" duration="2000" />
       <workItem from="1750355208536" duration="18000" />
-      <workItem from="1750355250692" duration="181000" />
+      <workItem from="1750355250692" duration="621000" />
+      <workItem from="1750440015455" duration="27000" />
+      <workItem from="1750697021263" duration="225000" />
+      <workItem from="1750698162995" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Ceasar_Cipher@caesar_cipher.rcov" NAME="caesar_cipher Coverage Results" MODIFIED="1750355146434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../caesar_cipher" MODULE_NAME="Ceasar Cipher" />
+    <SUITE FILE_PATH="coverage/Ceasar_Cipher@caesar_cipher.rcov" NAME="caesar_cipher Coverage Results" MODIFIED="1750699703688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../caesar_cipher" MODULE_NAME="Ceasar Cipher" />
   </component>
 </project>
